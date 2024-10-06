@@ -7,7 +7,7 @@
   <li><b>Programming Languages:</b> C, C#, JAVA, Python, HTML, CSS, JavaScript</li>
   <li><b>Frameworks/Libraries:</b> Dot Net MVC, React, Jquery, Bootstrap</li>
   <li><b>Databases:</b> MySQL, SQlite</li>
-  <li<b>Developer Tools:</b> Git/Github, Azure DevOps(ADO),Visual studio, VS Code, Google Colab, Anaconda</li>
+  <li><b>Developer Tools:</b> Git/Github, Azure DevOps(ADO),Visual studio, VS Code, Google Colab, Anaconda</li>
   <li><b>Academic Coursework:</b> Data Structures, Operating Systems (Windows, Linux), CN, OOP, DBMS</li>
   <li><b>Certifications:</b> C , Java, DBMS (NPTEL) | Machine learing using Python(Skifi Labs)</li>
 </ul>
