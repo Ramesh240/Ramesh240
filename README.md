@@ -22,8 +22,8 @@ I build **production-ready applications** that solve real problems. Passionate a
 - Technical interview prep resources
 
 ### 🤝 Let's Connect
-- 💼 [LinkedIn](www.linkedin.com/in/ramesh-mangalagiri-861b1a1a7)
-- 📧 [Email](rameshmangalagiri33@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ramesh-mangalagiri-861b1a1a7/)
+- 📧 [Email](mailto:rameshmangalagiri33@gmail.com)
 - 🌐 [Portfolio](https://ramesh240.github.io/)
 
 ### 📊 GitHub Stats
