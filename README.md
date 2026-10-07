@@ -1,4 +1,11 @@
-# Hey, I'm Ramesh 👋
+# Hi, I'm Ramesh Mangalagiri 👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramesh-mangalagiri-861b1a1a7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ramesh240.github.io)
+[![Email](https://img.shields.io/badge/Email-rameshmangalagiri33@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rameshmangalagiri33@gmail.com)
+
+---
+
 
 ## 🚀 Full-Stack Developer | .NET | React | Azure | Mobile Apps
 
@@ -20,11 +27,6 @@ I build **production-ready applications** that solve real problems. Passionate a
 - Building scalable full-stack applications
 - Open-source contributions
 - Technical interview prep resources
-
-### 🤝 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/ramesh-mangalagiri-861b1a1a7/)
-- 📧 [Email](mailto:rameshmangalagiri33@gmail.com)
-- 🌐 [Portfolio](https://ramesh240.github.io/)
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramesh240&show_icons=true&theme=dark)
