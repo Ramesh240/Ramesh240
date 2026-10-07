@@ -2,7 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramesh-mangalagiri-861b1a1a7)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ramesh240.github.io)
-[![Email](https://img.shields.io/badge/Email-rameshmangalagiri33@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rameshmangalagiri33@gmail.com)
 
 ---
 
